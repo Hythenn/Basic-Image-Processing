@@ -8,7 +8,7 @@
 #      Allow each image to undergo Histogram and compare the results accordingly through a short discussion
 
 
-# ANNOTATION AND PIXEL MANIPULATION
+# RGB IMAGE SLICING
 from PIL import Image
 from numpy import *
 from pylab import *
