@@ -29,6 +29,9 @@ pt = 1
 for i in points:
     x, y = int(i[0]), int(i[1])
     
-    print(f"Color of Point {pt:<3d}:", img[y, x])
+    print(f"Color of Point {pt:<3d}:", img[y, x],
+    f"\nX = {x} ",
+    f"\nY = {y} ",
+    "\n")
     pt += 1
 show()
