@@ -1,5 +1,5 @@
 # Basic-Image-Processing
-Basic Image Handling and Processing Laboratory Exercise for CS124P
+CS124P - Basic Image Handling and Processing Laboratory Exercise
 
 Contents
 1. Annotation and Pixel Manipulation: Python script to select 10 points on an image and display their RGB values. 
